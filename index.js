@@ -19,6 +19,7 @@ app.get("/chef", (req, res) => {
     res.send(chefDetails);
 });
 
+// accessing individual food id by chef
 app.get("/chef/:id", (req, res) => {
     const id = req.params.id;
 
