@@ -2,7 +2,7 @@
   {
     "id": 1,
     "food_name": "Vada Pav",
-    "food_info": " Vada Pav is actually a popular street food from India, specifically from the state of Maharashtra. It is a vegetarian dish consisting of a spicy potato fritter (vada) sandwiched between a pav, which is a soft bread roll.",
+    "food_info": " Vada Pav is actually a popular street food from India, specifically from the state of Maharashtra. It is a vegetarian dish consisting of a spicy potato fritter (vada) sandwiched between a pav, which is a soft bread roll.The vada is made by mashing boiled potatoes with spices, such as turmeric, chili powder, ginger, garlic, and coriander",
     "food_image": "https://images.unsplash.com/photo-1606491956391-70868b5d0f47?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=735&q=80"
   },
   {
@@ -14,13 +14,13 @@
   {
     "id": 3,
     "food_name": "Pakora",
-    "food_info": "Pakoras are made by dipping various ingredients, such as vegetables, in a seasoned batter and deep-frying them until crispy and golden brown. The batter is typically made from a mixture of chickpea flour (besan), spices, and water. Common vegetables used in pakoras include onions, potatoes, spinach, and chili peppers, but there are many variations and combinations available.",
+    "food_info": "Pakoras are made by dipping various ingredients, such as vegetables, in a seasoned batter and deep-frying them until crispy and golden brown. The batter is typically made from a mixture of chickpea flour (besan), spices, and water.",
     "food_image": "https://images.unsplash.com/photo-1666190091191-0cd0c5c8c5b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
   },
   {
     "id": 4,
     "food_name": "Aloo Gobi",
-    "food_info": "Aloo Gobi is a traditional Mexican dish consisting of a small hand-sized corn or wheat tortilla topped with a filling.",
+    "food_info": "Aloo Gobi is a popular vegetarian dish from the Indian subcontinent, specifically from the regions of Punjab and North India. It is a curry made with potatoes (aloo) and cauliflower (gobi) as the main ingredients.",
     "food_image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347444/india-food-butter-chicken/india-food-butter-chicken-1120x732.jpg"
   }
 ]
