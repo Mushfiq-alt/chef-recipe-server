@@ -4,6 +4,7 @@ const cors = require("cors");
 const app = express();
 const port = process.env.PORT || 5000;
 
+// storing Data through variable
 const chefDetails = require("./data/chef.json");
 const popularFoods = require("./data/popularDish.json");
 
