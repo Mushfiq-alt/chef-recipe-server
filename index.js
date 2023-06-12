@@ -26,6 +26,7 @@ app.get("/chef/:id", (req, res) => {
     res.send(selectedChef);
 });
 
+// accessing popular foods Data
 app.get("/popular-foods", (req, res) => {
     res.send(popularFoods);
 });
