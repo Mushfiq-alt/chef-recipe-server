@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "food_name": "Vada Pav",
+    "food_info": "Pizza is a savory dish of Italian origin, consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients",
+    "food_image": "https://images.unsplash.com/photo-1606491956391-70868b5d0f47?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=735&q=80"
+  },
+  {
+    "id": 2,
+    "food_name": "Chicken Biryani",
+    "food_info": "A burger is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun.",
+    "food_image": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1188&q=80"
+  },
+  {
+    "id": 3,
+    "food_name": "Pakora",
+    "food_info": "Sushi is a Japanese dish of prepared vinegared rice, usually with some sugar and salt, accompanying a variety of ingredients, such as seafood, vegetables, and occasionally tropical fruits.",
+    "food_image": "https://images.unsplash.com/photo-1666190091191-0cd0c5c8c5b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 4,
+    "food_name": "Aloo Gobi",
+    "food_info": "A taco is a traditional Mexican dish consisting of a small hand-sized corn or wheat tortilla topped with a filling.",
+    "food_image": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1661347444/india-food-butter-chicken/india-food-butter-chicken-1120x732.jpg"
+  }
+]

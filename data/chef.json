@@ -1,0 +1,437 @@
+[
+  {
+    "name": "India",
+    "chef_id": 1,
+    "chef_name": "Sanjeev Kapoor",
+    "chef_experience": "30 years",
+    "no_of_recipes": 300,
+    "recipes": [
+      {
+        "name": "Butter Chicken",
+        "ingredients": [
+          "boneless chicken",
+          "butter",
+          "oil",
+          "onion",
+          "ginger-garlic paste",
+          "red chili powder",
+          "turmeric powder",
+          "garam masala",
+          "tomato puree",
+          "heavy cream",
+          "kasuri methi",
+          "salt",
+          "fresh coriander leaves"
+        ],
+        "imageUrl": "https://cafedelites.com/wp-content/uploads/2019/01/Butter-Chicken-IMAGE-27.jpg",
+        "cooking_method": "1. Heat butter and oil in a pan. \n2. Add finely chopped onion and sauté until golden brown. \n3. Mix in ginger-garlic paste and cook for a minute. \n4. Add red chili powder, turmeric powder, and garam masala. Stir well. \n5. Pour in tomato puree and cook until oil separates. \n6. Add chicken pieces and cook until they are tender and cooked through. \n7. Pour in heavy cream and simmer for a few minutes. \n8. Crush kasuri methi between your palms and sprinkle it over the dish. \n9. Season with salt to taste. \n10. Garnish with fresh coriander leaves. \n11. Serve hot with naan or rice.",
+        "rating": 4.9
+      },
+      {
+        "name": "Dal Makhani",
+        "ingredients": [
+          "black lentils",
+          "kidney beans",
+          "butter",
+          "cream",
+          "onion",
+          "tomato",
+          "ginger",
+          "garlic",
+          "green chili",
+          "cumin seeds",
+          "red chili powder",
+          "turmeric powder",
+          "garam masala",
+          "kasuri methi",
+          "salt",
+          "fresh coriander leaves"
+        ],
+        "imageUrl": "https://www.vegrecipesofindia.com/wp-content/uploads/2015/01/dal-makhani-restaurant-style.jpg",
+        "cooking_method": "1. Soak black lentils and kidney beans overnight. \n2. Pressure cook lentils and beans until soft. \n3. In a pan, heat butter and add chopped onion, ginger, garlic, and green chili. Sauté until golden. \n4. Add cumin seeds and cook until they splutter. \n5. Add chopped tomato and cook until soft. \n6. Mash the lentils and beans lightly and add them to the pan. \n7. Stir in red chili powder, turmeric powder, garam masala, and salt. \n8. Cook on low heat for 30-40 minutes, stirring occasionally. \n9. Add cream, kasuri methi, and cook for another 10 minutes. \n10. Garnish with fresh coriander leaves. \n11. Serve hot with naan or rice.",
+        "rating": 4.7
+      },
+      {
+        "name": "Tandoori Chicken",
+        "ingredients": [
+          "chicken",
+          "yogurt",
+          "ginger-garlic paste",
+          "lemon juice",
+          "red chili powder",
+          "turmeric powder",
+          "garam masala",
+          "coriander powder",
+          "cumin powder",
+          "kasuri methi",
+          "salt",
+          "oil",
+          "onion rings",
+          "lemon wedges",
+          "fresh coriander leaves"
+        ],
+        "imageUrl": "https://www.simplyrecipes.com/thmb/VEcMFnVkxP4iWH6eACk1IQeQsHY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Tandoori-Chicken-LEAD-04-437bb75a439446f28b834fc6be70bc94.jpg",
+        "cooking_method": "1. In a bowl, mix yogurt, ginger-garlic paste, lemon juice, red chili powder, turmeric powder, garam masala, coriander powder, cumin powder, kasuri methi, and salt to make a marinade. \n2. Make deep cuts on the chicken pieces and coat them with the marinade. \n3. Let the chicken marinate for at least 2 hours, preferably overnight. \n4. Preheat the oven or grill to high heat. \n5. Place the marinated chicken on a greased baking tray or grill rack. \n6. Drizzle oil over the chicken pieces. \n7. Bake or grill the chicken at high heat for about 20-25 minutes, turning once, until cooked and slightly charred. \n8. Garnish with onion rings, lemon wedges, and fresh coriander leaves. \n9. Serve hot with mint chutney or yogurt dip.",
+        "rating": 4.8
+      }
+    ],
+    "rating": 5,
+    "img_url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRafNIvPytQCrkJjxXJVJGnIxL4E5Y695_QceZO6GYTI0cAtAB5",
+    "bg_url": "https://www.allrecipes.com/thmb/UWKQ_-tr2ulMbWomUEo_BQYIDGs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/24002-famous-butter-chicken-DDMFS-4x3-8d44be94d90c4dc782f91534639d5369.jpg",
+    "bio": "Renowned Indian chef, TV personality, and entrepreneur. Pioneer of Indian culinary industry. Author, restaurateur, and innovator."
+  },
+  {
+    "name": "India",
+    "chef_id": 2,
+    "chef_name": "Vikas Khanna",
+    "chef_experience": "25 years",
+    "no_of_recipes": 250,
+    "recipes": [
+      {
+        "name": "Paneer Tikka",
+        "ingredients": [
+          "paneer (Indian cottage cheese)",
+          "bell peppers",
+          "onion",
+          "yogurt",
+          "ginger-garlic paste",
+          "lemon juice",
+          "red chili powder",
+          "turmeric powder",
+          "garam masala",
+          "chaat masala",
+          "kasuri methi",
+          "salt",
+          "oil",
+          "skewers",
+          "mint chutney",
+          "lemon wedges",
+          "fresh coriander leaves"
+        ],
+        "imageUrl": "https://www.vegrecipesofindia.com/wp-content/uploads/2011/10/grilled-paneer-tikka.jpg",
+        "cooking_method": "1. Cut paneer, bell peppers, and onion into bite-sized pieces. \n2. In a bowl, mix yogurt, ginger-garlic paste, lemon juice, red chili powder, turmeric powder, garam masala, chaat masala, kasuri methi, and salt to make a marinade. \n3. Add paneer, bell peppers, and onion to the marinade. Mix gently to coat the pieces. \n4. Let the paneer and vegetables marinate for at least 30 minutes. \n5. Preheat the grill or oven to medium-high heat. \n6. Thread the marinated paneer and vegetables onto skewers. \n7. Grill or bake the skewers for about 10-12 minutes, turning once, until the paneer is lightly charred and the vegetables are cooked. \n8. Remove from heat and garnish with fresh coriander leaves. \n9. Serve hot with mint chutney and lemon wedges.",
+        "rating": 4.5
+      },
+      {
+        "name": "Chicken Biryani",
+        "ingredients": [
+          "chicken",
+          "basmati rice",
+          "onion",
+          "tomato",
+          "yogurt",
+          "ginger-garlic paste",
+          "green chili",
+          "mint leaves",
+          "coriander leaves",
+          "turmeric powder",
+          
+          "milk",
+          "ghee",
+          "salt",
+          "water"
+        ],
+        "imageUrl": "https://norecipes.com/wp-content/uploads/2017/05/chicken-biryani-005.jpg",
+        "cooking_method": "1. Marinate chicken with yogurt, ginger-garlic paste, green chili, mint leaves, coriander leaves, turmeric powder, red chili powder, garam masala, cumin powder, and salt. Let it marinate for at least 1 hour. \n2. Wash and soak basmati rice in water for 30 minutes. \n3. Heat ghee in a large pan and add whole spices (cardamom, cloves, cinnamon, bay leaf). \n4. Add sliced onions and sauté until golden brown. \n5. Add tomatoes and cook until they turn mushy. \n6. Add marinated chicken and cook until it is partially done. \n7. In a separate pot, bring water to a boil and add soaked rice. Cook rice until it is 70% cooked. \n8. Drain the rice and layer it over the partially cooked chicken. \n9. Sprinkle saffron strands soaked in warm milk over the rice. \n10. Cover the pot with a tight lid and cook on low heat for 20-25 minutes, or until the rice and chicken are fully cooked. \n11. Garnish with fried onions, fresh coriander leaves, and serve hot.",
+        "rating": 4.2
+      },
+      {
+        "name": "Junoon's Coconut Soup with Lemongrass and Ginger",
+        "ingredients": [
+            "paneer (Indian cottage cheese)",
+            "bell peppers",
+            "onion",
+            "yogurt",
+            "ginger-garlic paste",
+            "lemon juice",
+            "red chili powder",
+            "turmeric powder",
+            "garam masala",
+            "chaat masala",
+            "kasuri methi",
+            "salt",
+            "oil",
+            "skewers",
+            "mint chutney",
+            "lemon wedges",
+            "fresh coriander leaves"
+        ],
+        "imageUrl": "https://cookingontheweekends.com/wp-content/uploads/2022/01/Ginger-Lemongrass-Soup-with-Coconut-Milk5-1.jpg",
+        "cooking_method": "1. Preheat oven to 325°F. \n2. Cut beef into 1-inch cubes. Coat with flour, salt, and pepper. \n3. In a large pot, heat olive oil over medium-high heat. Add beef and cook until browned, about 5 minutes. \n4. Add carrots, potatoes, onion, and garlic. Cook for 5 minutes. \n5. Add beef broth, tomato paste, and thyme. \n6. Transfer stew to an oven-safe pot and bake for 2 hours. \n7. Serve hot.",
+        "rating": 4.8
+      }
+    ],
+    "rating": 49,
+    "img_url": "https://asiasociety.org/sites/default/files/styles/1200w/public/2020-08/200827_vikas_khanna_AGC.jpg",
+    "bg_url": "https://geekrobocook.com/wp-content/uploads/2021/03/12.-Grilled-Paneer.jpg",
+    "bio": "Massimo Bottura is an Italian restaurateur and the chef patron of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy."
+  },
+  {
+    "name": "India",
+    "chef_id": 3,
+    "chef_name": "Atul Kochhar",
+    "chef_experience": "40 years",
+    "no_of_recipes": 80,
+    "recipes": [
+      {
+        "name": "Tandoori Salmon",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "canned tomatoes",
+          "onion",
+          "garlic",
+          "olive oil",
+          "salt",
+          "pepper",
+          "parmesan cheese"
+        ],
+        "imageUrl": "https://ministryofcurry.com/wp-content/uploads/2020/12/baked-salmon-2-850x1275.jpg",
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. In a large pan, heat olive oil over medium-high heat. Add onion and garlic and cook until soft, about 3 minutes. \n3. Add ground beef and cook until browned, about 5 minutes. \n4. Add canned tomatoes, salt, and pepper. Reduce heat and simmer for 15 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "name": "Chargrilled Lamb Chops",
+        "ingredients": [
+          "chicken breast",
+          "bell peppers",
+          "onion",
+          "lime",
+          "olive oil",
+          "salt",
+          "pepper",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "imageUrl": "https://pinchandswirl.com/wp-content/uploads/2018/07/Grilled-Lamb-Chops-on-a-white-platter-with-rosemary-sprigs.jpg",
+        "cooking_method": "1. Slice chicken breast, bell peppers, and onion into thin strips. \n2. In a large pan, heat olive oil over medium-high heat. Add chicken and cook until browned, about 5 minutes. \n3. Add bell peppers and onion and cook for an additional 5 minutes. \n4. Squeeze lime over the fajita mixture and season with salt and pepper. \n5. Serve fajita mixture in tortillas with sour cream and salsa.",
+        "rating": 4.2
+      },
+      {
+        "name": "Malai Kofta",
+        "ingredients": [
+          "stewing beef",
+          "carrots",
+          "potatoes",
+          "onion",
+          "garlic",
+          "beef broth",
+          "tomato paste",
+          "flour",
+          "thyme",
+          "salt",
+          "pepper"
+        ],
+        "imageUrl": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/04/malai-kofta-recipe-1.jpg",
+        "cooking_method": "1. Preheat oven to 325°F. \n2. Cut beef into 1-inch cubes. Coat with flour, salt, and pepper. \n3. In a large pot, heat olive oil over medium-high heat. Add beef and cook until browned, about 5 minutes. \n4. Add carrots, potatoes, onion, and garlic. Cook for 5 minutes. \n5. Add beef broth, tomato paste, and thyme. \n6. Transfer stew to an oven-safe pot and bake for 2 hours. \n7. Serve hot.",
+        "rating": 4.8
+      }
+    ],
+    "rating": 57,
+    "img_url": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQWFN4e4T-1Z8IGBCK0xXoc90By6vGMrhLiASdmyenSFCE_fHzh148QJF70wO_b_xcl",
+    "bg_url": "https://img.taste.com.au/MzVNlORk/w720-h480-cfill-q80/taste/2016/11/chargrilled-lamb-cutlets-with-pea-puree-all-our-recipes-of-the-day-109833-2.jpeg",
+    "bio": "Masaharu Morimoto is a Japanese chef and restaurateur who is best known as the Iron Chef on the Japanese television show Iron Chef and its spinoff Iron Chef America."
+  },
+  {
+    "name": "India",
+    "chef_id": 4,
+    "chef_name": "Ranveer Brar",
+    "chef_experience": "20 years",
+    "no_of_recipes": 60,
+    "recipes": [
+      {
+        "name": "Malabar Prawn Curry",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "canned tomatoes",
+          "onion",
+          "garlic",
+          "olive oil",
+          "salt",
+          "pepper",
+          "parmesan cheese"
+        ],
+        "imageUrl": "https://img.jamieoliver.com/jamieoliver/recipe-database/6RgC3_8RKGlAL6eTEKhPEB.jpg?tr=w-800,h-1066",
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. In a large pan, heat olive oil over medium-high heat. Add onion and garlic and cook until soft, about 3 minutes. \n3. Add ground beef and cook until browned, about 5 minutes. \n4. Add canned tomatoes, salt, and pepper. Reduce heat and simmer for 15 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "name": "Amritsari Kulcha",
+        "ingredients": [
+          "chicken breast",
+          "bell peppers",
+          "onion",
+          "lime",
+          "olive oil",
+          "salt",
+          "pepper",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "imageUrl": "https://www.cookingcarnival.com/wp-content/uploads/2016/02/Amritsari-Kulcha.jpg",
+        "cooking_method": "1. Slice chicken breast, bell peppers, and onion into thin strips. \n2. In a large pan, heat olive oil over medium-high heat. Add chicken and cook until browned, about 5 minutes. \n3. Add bell peppers and onion and cook for an additional 5 minutes. \n4. Squeeze lime over the fajita mixture and season with salt and pepper. \n5. Serve fajita mixture in tortillas with sour cream and salsa.",
+        "rating": 4.2
+      },
+      {
+        "name": "Mutton Rogan Josh",
+        "ingredients": [
+          "stewing beef",
+          "carrots",
+          "potatoes",
+          "onion",
+          "garlic",
+          "beef broth",
+          "tomato paste",
+          "flour",
+          "thyme",
+          "salt",
+          "pepper"
+        ],
+        "imageUrl": "https://www.yummytummyaarthi.com/wp-content/uploads/2014/10/3.-10.png",
+        "cooking_method": "1. Preheat oven to 325°F. \n2. Cut beef into 1-inch cubes. Coat with flour, salt, and pepper. \n3. In a large pot, heat olive oil over medium-high heat. Add beef and cook until browned, about 5 minutes. \n4. Add carrots, potatoes, onion, and garlic. Cook for 5 minutes. \n5. Add beef broth, tomato paste, and thyme. \n6. Transfer stew to an oven-safe pot and bake for 2 hours. \n7. Serve hot.",
+        "rating": 4.8
+      }
+    ],
+    "rating": 66,
+    "img_url": "https://failurebeforesuccess.com/wp-content/uploads/2022/01/Chef_Ranveer_Brar-2048x1219.jpg",
+    "bg_url": "https://geekrobocook.com/wp-content/uploads/2021/03/82.-Mutton-Roganjosh.jpg",
+    "bio": "Enrique Olvera is a Mexican chef and restaurateur. He is the owner of Pujol, a restaurant in Mexico City that has been ranked as one of the best restaurants in the world."
+  },
+  {
+    "name": "India",
+    "chef_id": 5,
+    "chef_name": "Nita Mehtha",
+    "chef_experience": "30 years",
+    "no_of_recipes": 150,
+    "recipes": [
+      {
+        "name": "Palak Paneer",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "canned tomatoes",
+          "onion",
+          "garlic",
+          "olive oil",
+          "salt",
+          "pepper",
+          "parmesan cheese"
+        ],
+        "imageUrl": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/palak-paneer-1-1024x1536.jpg",
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. In a large pan, heat olive oil over medium-high heat. Add onion and garlic and cook until soft, about 3 minutes. \n3. Add ground beef and cook until browned, about 5 minutes. \n4. Add canned tomatoes, salt, and pepper. Reduce heat and simmer for 15 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "name": "Vegetable Biryani",
+        "ingredients": [
+          "chicken breast",
+          "bell peppers",
+          "onion",
+          "lime",
+          "olive oil",
+          "salt",
+          "pepper",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "imageUrl": "https://www.cookwithmanali.com/wp-content/uploads/2019/09/Vegetable-Biryani-Restaurant-Style.jpg",
+        "cooking_method": "1. Slice chicken breast, bell peppers, and onion into thin strips. \n2. In a large pan, heat olive oil over medium-high heat. Add chicken and cook until browned, about 5 minutes. \n3. Add bell peppers and onion and cook for an additional 5 minutes. \n4. Squeeze lime over the fajita mixture and season with salt and pepper. \n5. Serve fajita mixture in tortillas with sour cream and salsa.",
+        "rating": 4.2
+      },
+      {
+        "name": "Gulab Jamun",
+        "ingredients": [
+          "stewing beef",
+          "carrots",
+          "potatoes",
+          "onion",
+          "garlic",
+          "beef broth",
+          "tomato paste",
+          "flour",
+          "thyme",
+          "salt",
+          "pepper"
+        ],
+        "imageUrl": "https://masalaandchai.com/wp-content/uploads/2021/11/Gulab-Jamuns.jpg",
+        "cooking_method": "1. Preheat oven to 325°F. \n2. Cut beef into 1-inch cubes. Coat with flour, salt, and pepper. \n3. In a large pot, heat olive oil over medium-high heat. Add beef and cook until browned, about 5 minutes. \n4. Add carrots, potatoes, onion, and garlic. Cook for 5 minutes. \n5. Add beef broth, tomato paste, and thyme. \n6. Transfer stew to an oven-safe pot and bake for 2 hours. \n7. Serve hot.",
+        "rating": 4.8
+      }
+    ],
+    "rating": 75,
+    "img_url": "https://www.awesomecuisine.com/wp-content/uploads/2018/03/nita_mehta.jpg?ezimgfmt=ng:webp/ngcb5",
+    "bg_url": "https://img.taste.com.au/FohCFqm9/w720-h480-cfill-q80/taste/2016/11/vegetable-biryani-102620-1.jpeg",
+    "bio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is best known as the host of the popular TV show 'Khana Khazana', which aired for over two decades and made him a household name in India and abroad."
+  },
+  {
+    "name": "India",
+    "chef_id": 6,
+    "chef_name": "Shipra Khanna",
+    "chef_experience": "25 years",
+    "no_of_recipes": 40,
+    "recipes": [
+      {
+        "name": "Chicken Roulade with Mushroom Sauce",
+        "ingredients": [
+          "spaghetti",
+          "ground beef",
+          "canned tomatoes",
+          "onion",
+          "garlic",
+          "olive oil",
+          "salt",
+          "pepper",
+          "parmesan cheese"
+        ],
+        "imageUrl": "https://ohmydish.com/uploads/2022/chicken-and-mushroom-roulade-2.jpg",
+        "cooking_method": "1. Cook spaghetti according to package instructions. \n2. In a large pan, heat olive oil over medium-high heat. Add onion and garlic and cook until soft, about 3 minutes. \n3. Add ground beef and cook until browned, about 5 minutes. \n4. Add canned tomatoes, salt, and pepper. Reduce heat and simmer for 15 minutes. \n5. Serve sauce over cooked spaghetti and sprinkle with parmesan cheese.",
+        "rating": 4.5
+      },
+      {
+        "name": "Mutton Biryani",
+        "ingredients": [
+          "chicken breast",
+          "bell peppers",
+          "onion",
+          "lime",
+          "olive oil",
+          "salt",
+          "pepper",
+          "tortillas",
+          "sour cream",
+          "salsa"
+        ],
+        "imageUrl": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/06/Mutton-Biryani-Recipe.jpg",
+        "cooking_method": "1. Slice chicken breast, bell peppers, and onion into thin strips. \n2. In a large pan, heat olive oil over medium-high heat. Add chicken and cook until browned, about 5 minutes. \n3. Add bell peppers and onion and cook for an additional 5 minutes. \n4. Squeeze lime over the fajita mixture and season with salt and pepper. \n5. Serve fajita mixture in tortillas with sour cream and salsa.",
+        "rating": 4.2
+      },
+      {
+        "name": "Chocolate Lava Cake",
+        "ingredients": [
+          "stewing beef",
+          "carrots",
+          "potatoes",
+          "onion",
+          "garlic",
+          "beef broth",
+          "tomato paste",
+          "flour",
+          "thyme",
+          "salt",
+          "pepper"
+        ],
+        "imageUrl": "https://www.aheadofthyme.com/wp-content/uploads/2016/02/molten-chocolate-lava-cakes-768x1152.jpg",
+        "cooking_method": "1. Preheat oven to 325°F. \n2. Cut beef into 1-inch cubes. Coat with flour, salt, and pepper. \n3. In a large pot, heat olive oil over medium-high heat. Add beef and cook until browned, about 5 minutes. \n4. Add carrots, potatoes, onion, and garlic. Cook for 5 minutes. \n5. Add beef broth, tomato paste, and thyme. \n6. Transfer stew to an oven-safe pot and bake for 2 hours. \n7. Serve hot.",
+        "rating": 4.8
+      }
+    ],
+    "rating": 64,
+    "img_url": "https://www.usmagazine.com/wp-content/uploads/2022/07/MasterChef-Winner-Shipra-Khanna-Shares-Her-Keys-to-Influencer-Success-and-What-Inspires-Her2.jpg?w=700&quality=86&strip=all",
+    "bg_url": "https://www.sandyathome.com/wp-content/uploads/2020/04/tandoori-chicken-in-oven-1024x577.jpg",
+    "bio": "Jung Sik Yim is a South Korean chef who is the owner and executive chef of three Michelin-starred restaurant Jungsik in Seoul, New York, and Hong Kong."
+  }
+]
