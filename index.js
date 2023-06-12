@@ -14,6 +14,7 @@ app.get('/', (req, res) => {
     res.send('chef is running')
 });
 
+// accessing Chef Data 
 app.get("/chef", (req, res) => {
     res.send(chefDetails);
 });
