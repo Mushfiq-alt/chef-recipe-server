@@ -8,13 +8,13 @@
   {
     "id": 2,
     "food_name": "Chicken Biryani",
-    "food_info": "Chicken Biryani is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun.",
+    "food_info": "Chicken Biryani is made by cooking marinated chicken pieces with aromatic spices, such as cumin, coriander, turmeric, and garam masala, along with onions, tomatoes, and yogurt. The chicken is typically cooked separately from the rice to ensure that both the meat and the rice are perfectly cooked.",
     "food_image": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1188&q=80"
   },
   {
     "id": 3,
     "food_name": "Pakora",
-    "food_info": "Pakora is a Japanese dish of prepared vinegared rice, usually with some sugar and salt, accompanying a variety of ingredients, such as seafood, vegetables, and occasionally tropical fruits.",
+    "food_info": "Pakoras are made by dipping various ingredients, such as vegetables, in a seasoned batter and deep-frying them until crispy and golden brown. The batter is typically made from a mixture of chickpea flour (besan), spices, and water. Common vegetables used in pakoras include onions, potatoes, spinach, and chili peppers, but there are many variations and combinations available.",
     "food_image": "https://images.unsplash.com/photo-1666190091191-0cd0c5c8c5b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
   },
   {
