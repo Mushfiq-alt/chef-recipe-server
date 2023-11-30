@@ -1,10 +1,10 @@
-# Chef Recipe Server
+# KitKitchen Server
 
 This repository contains the server-side code for the Chef Recipe application.
 
 ## Description
 
-The Chef Recipe Server handles API requests for chef details and popular food data.
+The KitKitchen handles API requests for chef details and popular food data.
 
 ## Installation
 
